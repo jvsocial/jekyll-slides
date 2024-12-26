@@ -5,6 +5,6 @@ title: Landing Page
 
 # Welcome to My Presentation
 
-This is the landing page for my presentation. Below are the links to each slide:
+Click the button below to start the slides:
 
-- [Go to the Slides](./slides.md)
+- [Start Presentation](./presentation.md)
