@@ -2,6 +2,6 @@ title: "My Lectures"
 description: "Educational resources and lecture slides"
 theme: jekyll-theme-architect
 url: "https://jvsocial.github.io"
-baseurl: "/jkelly-slides"
+baseurl: "/jekyll-slides"
 logo: "/assets/images/logo.png"  # Customize logo
 favicon: "/assets/images/favicon.ico"  # Customize favicon
