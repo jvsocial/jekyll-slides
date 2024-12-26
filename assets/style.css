@@ -1,0 +1,40 @@
+/* Add this to your CSS file */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #slides-container {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .slide {
+    display: none;
+    font-size: 1.5em;
+    padding: 40px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  #nav-buttons {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
